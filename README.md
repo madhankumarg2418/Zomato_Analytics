@@ -18,7 +18,8 @@ An end-to-end data analysis project on the Zomato dataset using **Excel, MySQL, 
 ## 📊 Dashboard Preview
 
 ### 📊 Excel Dashboard
-![Excel Dashboard](images/excel_dashboard.png)
+<img width="1481" height="667" alt="excel dashboard" src="https://github.com/user-attachments/assets/a45d1786-8931-44c3-8611-dccddedeca14" />
+
 
 ### 📈 Power BI Dashboard
 
@@ -26,7 +27,8 @@ An end-to-end data analysis project on the Zomato dataset using **Excel, MySQL, 
 
 
 ### 📉 Tableau Dashboard
-![Tableau Dashboard](images/tableau_dashboard.png)
+![Uploading tableau dashboard.png…]()
+
 
 ## 📈 Key Insights
 - Restaurant distribution by country
