@@ -27,7 +27,8 @@ An end-to-end data analysis project on the Zomato dataset using **Excel, MySQL, 
 
 
 ### 📉 Tableau Dashboard
-![Uploading tableau dashboard.png…]()
+<img width="1505" height="858" alt="tableau dashboard" src="https://github.com/user-attachments/assets/b0e7e645-3a9e-42ff-94f3-9b99e43cd0b5" />
+
 
 
 ## 📈 Key Insights
