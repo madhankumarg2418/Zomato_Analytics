@@ -1,7 +1,7 @@
 # 🍽️ Zomato Data Analysis Project
 
 ## 📌 Overview
-An end-to-end data analysis project on the Zomato dataset using Excel, MySQL, Power BI, and Tableau to extract insights and build interactive dashboards.
+An end-to-end data analysis project on the Zomato dataset using **Excel, MySQL, Power BI, and Tableau** to uncover business insights and build interactive dashboards.
 
 ## 🛠️ Tools Used
 - Microsoft Excel
@@ -11,17 +11,30 @@ An end-to-end data analysis project on the Zomato dataset using Excel, MySQL, Po
 
 ## 📂 Project Files
 - 📊 Excel Analysis
-- 🗄️ SQL Queries
+- 🗄️ SQL Analysis
 - 📈 Power BI Dashboard
 - 📉 Tableau Dashboard
 
-## 📊 Key Insights
+## 📊 Dashboard Preview
+
+### 📊 Excel Dashboard
+![Excel Dashboard](images/excel_dashboard.png)
+
+### 📈 Power BI Dashboard
+
+<img width="1067" height="742" alt="powerbi dashboard" src="https://github.com/user-attachments/assets/834f0b65-65b5-404a-95c8-6697dd2ebd1f" />
+
+
+### 📉 Tableau Dashboard
+![Tableau Dashboard](images/tableau_dashboard.png)
+
+## 📈 Key Insights
 - Restaurant distribution by country
 - Ratings and cost analysis
 - Online delivery & table booking analysis
 - Popular cuisines
-- Interactive business dashboards
+- Interactive dashboards for business insights
 
 ## 👨‍💻 Author
-**Madhankumar G**
-📧 madhankumarg2418@gmail.com# Zomato_Analytics
+**Madhankumar G**  
+📧 madhankumarg2418@gmail.com
